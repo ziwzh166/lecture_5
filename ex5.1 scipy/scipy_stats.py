@@ -6,7 +6,6 @@ Created on Mon Feb 28 20:59:18 2022
 """
 import numpy as np
 from scipy.stats import poisson,norm,ttest_ind
-
 import matplotlib.pyplot as plt
 
 #Poisson distributiom
